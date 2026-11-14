@@ -1,0 +1,20 @@
+global_before 978
+global_after 567
+global_dropped 411
+dir_before 2025-10 55
+dir_before 2025-11 50
+dir_before 2025-12 50
+dir_before 2026-01 54
+dir_before 2026-02 46
+dir_before 2026-03 49
+dir_before 2026-04 57
+dir_before 2026-05 57
+dir_before 2026-06 103
+dir_before 2026-07 62
+dir_before 2026-08 149
+dir_before 2026-09 49
+dir_before 2026-10 129
+dir_before 2026-11 68
+dir_after 2026-06 184
+dir_after 2026-08 136
+dir_after 2026-10 247

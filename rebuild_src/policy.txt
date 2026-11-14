@@ -1,0 +1,2 @@
+retain_months 6
+target_rows 120
